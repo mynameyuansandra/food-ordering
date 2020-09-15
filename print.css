@@ -1,0 +1,14 @@
+body {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+table,
+.col {
+    text-align: center;
+    color: black;
+
+}
+
+tr:nth-child(even) {
+    background-color: rgb(141, 135, 135);
+}
